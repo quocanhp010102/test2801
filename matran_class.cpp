@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 using namespace std; 
+// test ma trans
 class matran{
 	private:
 	 int hang;
